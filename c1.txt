@@ -1,1 +1,4 @@
+vol -f vmss.core vol -f vmss.core windows.getsids.GetSIDs
+vol -f vmss.core windows.sessions.Sessions
+vol -f vmss.core windows.envars | grep -i "username"
 PoC{PoC_W0rk$Hop, BrunoDeChezPoC}

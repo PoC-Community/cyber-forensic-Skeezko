@@ -1,1 +1,3 @@
+vol -f vmss.core windows.cmdline.CmdLine | grep '7912'
+echo -n "C:\Users\BrunoDeChezPoC\AppData\Local\Programs\Python\Python38\python.exe BadProgram.py.txt" | sha1sum
 7881be27f7507725dc5229f5700f36a7cacc1fb0

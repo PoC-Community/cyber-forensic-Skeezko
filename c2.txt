@@ -1,1 +1,3 @@
+vol -f vmss.core windows.netscan.NetScan
+ip qui se repete 2 fois
 PoC{7912 + python.exe}
